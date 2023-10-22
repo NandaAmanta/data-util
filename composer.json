@@ -1,0 +1,23 @@
+{
+    "name": "amanta/data-util",
+    "description": "utils that help manage data",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Amanta\\DataUtil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NandaAmanta",
+            "email": "nansamgr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/database": "11.x-dev",
+        "illuminate/support": "11.x-dev",
+        "illuminate/pagination": "11.x-dev"
+    }
+}
