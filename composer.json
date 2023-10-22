@@ -14,10 +14,10 @@
             "email": "nansamgr@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
-        "illuminate/database": "11.x-dev",
-        "illuminate/support": "11.x-dev",
-        "illuminate/pagination": "11.x-dev"
+        "illuminate/support": "^10.0",
+        "illuminate/database": "^10.0",
+        "illuminate/pagination": "^10.0"
     }
 }
